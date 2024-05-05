@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mayzer101
+- 👋 Hi, I’m Minenhle Sibeko
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on ...
